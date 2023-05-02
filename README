@@ -1,0 +1,6 @@
+Since we only consider two rock types, we will use its proximity represent its probability.
+The max probability for each rock = 1 / number of type = 1/2 = 0.5
+Colt proximity = sum(each rock's proximity)
+
+Then we need to normalized data. Also, one rock type do one time normalization.
+
